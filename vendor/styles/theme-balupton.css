@@ -1,5 +1,5 @@
 .prettyprint.theme-balupton {
-	font-size: 14px;
+	font-size: 100%;
 	font-style: normal;
 	font-weight: normal;
 	line-height: 15px;
@@ -39,5 +39,5 @@
 .prettyprint.theme-balupton .tag,
 .prettyprint.theme-balupton .kwd {
 	color: #006699;
-	font-weight: bold;
+	/*font-weight: bold;*/
 }
